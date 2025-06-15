@@ -42,19 +42,29 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,docker,kubernetes,jenkins,mysql,mongodb,postgresql,git,linux,azure" alt="Tech Stack" />
-  <img src="https://raw.githubusercontent.com/opensearch-project/OpenSearch/main/assets/opensearch-logo/PNG/opensearch-logo-icon.png" width="48" height="48" alt="OpenSearch" style="margin: 6px; border-radius: 8px; background: #1f1f1f; padding: 6px;" />
+  <img src="https://opensearch.org/assets/brand/PNG/opensearch-icon-blue.png" width="48" height="48" alt="OpenSearch" style="margin: 6px; border-radius: 8px; background: #1f1f1f; padding: 6px;" />
 </div>
 
 ---
 
 ### 📈 Coding Activity
 
-> Total coding time logged since 26-06-2022. Updated hourly.
+> Daily activity trend based on my development workflow. Updated automatically.
 
 ```
              ┼─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┤ 
             -7d           -6d           -5d           -4d           -3d           -2d           -1d           now
 ```
+
+---
+
+### 📌 Featured Projects
+
+Here are some of the projects I've been working on recently:
+
+- 🔐 [User Management System](https://github.com/BarisKarapelit/user-management) — Role-based user and permission structure with Spring Security
+- 🧾 [Aegon Dividend Service](https://github.com/BarisKarapelit/aegon-dividend-service) — Microservice for financial dividend processing
+- 💬 [Messaging API Integration](https://github.com/BarisKarapelit/smartmessage-integration) — SmartMessage/Moreum messaging service integration with async architecture
 
 ---
 
