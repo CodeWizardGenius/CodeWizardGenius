@@ -38,54 +38,45 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="./img/java-original.svg" width="48" height="48" alt="Java" /><br>Java
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" /><br>Java
     </td>
     <td align="center" width="96">
-      <img src="./img/springio-icon.svg" width="48" height="48" alt="Spring Boot" /><br>Spring Boot
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48" alt="Spring Boot" /><br>Spring Boot
     </td>
     <td align="center" width="96">
-      <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" /><br>JavaScript
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" /><br>JavaScript
     </td>
     <td align="center" width="96">
-      <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" /><br>TypeScript
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" /><br>TypeScript
     </td>
     <td align="center" width="96">
-      <img src="./img/react-original.svg" width="48" height="48" alt="React" /><br>React
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" /><br>React
     </td>
     <td align="center" width="96">
-      <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" /><br>Docker
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" /><br>Docker
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" /><br>Kubernetes
-    </td>
-    <td align="center" width="96">
-      <img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL" /><br>MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="./img/mongodb-original.svg" width="48" height="48" alt="MongoDB" /><br>MongoDB
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48" height="48" alt="Kubernetes" /><br>Kubernetes
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
-      <img src="./img/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" /><br>PostgreSQL
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" /><br>MySQL
     </td>
     <td align="center" width="96">
-      <img src="./img/git-original.svg" width="48" height="48" alt="Git" /><br>Git
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" /><br>MongoDB
     </td>
     <td align="center" width="96">
-      <img src="./img/intellij-original.svg" width="48" height="48" alt="IntelliJ" /><br>IntelliJ
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" /><br>PostgreSQL
     </td>
     <td align="center" width="96">
-      <img src="./img/linux-original.svg" width="48" height="48" alt="Linux" /><br>Linux
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" /><br>Git
     </td>
     <td align="center" width="96">
-      <img src="./img/azure-original.svg" width="48" height="48" alt="Azure" /><br>Azure
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" /><br>Linux
     </td>
     <td align="center" width="96">
-      <img src="./img/heroku-original.svg" width="48" height="48" alt="Heroku" /><br>Heroku
-    </td>
-    <td align="center" width="96">
-      <img src="./img/rabbitmq-original.svg" width="48" height="48" alt="RabbitMQ" /><br>RabbitMQ
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="48" height="48" alt="Azure" /><br>Azure
     </td>
   </tr>
 </table>
