@@ -1,21 +1,7 @@
-<style>
-  :root[data-theme='dark'] {
-    background-color: #0d1117;
-    color: #c9d1d9;
-  }
-  :root[data-theme='light'] {
-    background-color: #ffffff;
-    color: #24292f;
-  }
-</style>
-
-<div align="right">
-  <label for="theme-switch">🌞 Light Mode &nbsp; 🌙 Dark Mode</label>
-  <select id="theme-switch" onchange="document.body.setAttribute('data-theme', this.value)" style="padding:6px 12px; font-size:14px; border-radius:8px; border:1px solid #ccc; margin-left: 10px;">
-    <option value="light">Light</option>
-    <option value="dark" selected>Dark</option>
-  </select>
-</div>
+<!-- Theme switching is not supported in GitHub markdown, but kept for aesthetic context -->
+<p align="right">
+  🌞 <strong>Light Mode</strong> | 🌙 <strong>Dark Mode</strong>
+</p>
 
 <h1 align="center">🚀 Hi there, I'm <span style="color:#4FC3F7">Barış Karapelit</span> 👋</h1>
 <h3 align="center">💻 Full Stack Developer | ☁️ Cloud & DevOps Enthusiast | 🧠 Lifelong Learner</h3>
@@ -56,7 +42,7 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,docker,kubernetes,jenkins,mysql,mongodb,postgresql,git,linux,azure" alt="Tech Stack" />
-  <img src="https://raw.githubusercontent.com/opensearch-project/OpenSearch/main/assets/opensearch-logo/PNG/opensearch-logo-icon.png" width="48" height="48" alt="OpenSearch" style="margin-left:12px; vertical-align:middle;" />
+  <img src="https://raw.githubusercontent.com/opensearch-project/OpenSearch/main/assets/opensearch-logo/PNG/opensearch-logo-icon.png" width="48" height="48" alt="OpenSearch" style="margin: 6px; border-radius: 8px; background: #1f1f1f; padding: 6px;" />
 </div>
 
 ---
