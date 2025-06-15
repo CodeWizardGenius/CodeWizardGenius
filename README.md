@@ -42,7 +42,7 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,docker,kubernetes,jenkins,mysql,mongodb,postgresql,git,linux,azure" alt="Tech Stack" />
-  <img src="./img/opensearch-icon-blue.svg" width="48" height="48" alt="OpenSearch" style="margin: 6px; border-radius: 8px; padding: 6px; background: #fff;" />
+  <img src="./img/opensearch.svg" width="48" height="48" alt="OpenSearch" style="margin: 6px; border-radius: 8px; padding: 6px; background: #fff;" />
 </div>
 
 ---
