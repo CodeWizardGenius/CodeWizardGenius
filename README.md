@@ -42,7 +42,7 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,docker,kubernetes,jenkins,mysql,mongodb,postgresql,git,linux,azure" alt="Tech Stack" />
-  <img src="https://opensearch.org/assets/brand/PNG/opensearch-icon-blue.png" width="48" height="48" alt="OpenSearch" style="margin: 6px; border-radius: 8px; background: #1f1f1f; padding: 6px;" />
+  <img src="https://opensearch.org/assets/brand/SVG/opensearch-icon-blue.svg" width="48" height="48" alt="OpenSearch" style="margin: 6px; border-radius: 8px; background: #1f1f1f; padding: 6px;" />
 </div>
 
 ---
@@ -65,6 +65,27 @@ Here are some of the projects I've been working on recently:
 - 🔐 [User Management System](https://github.com/BarisKarapelit/user-management) — Role-based user and permission structure with Spring Security
 - 🧾 [Aegon Dividend Service](https://github.com/BarisKarapelit/aegon-dividend-service) — Microservice for financial dividend processing
 - 💬 [Messaging API Integration](https://github.com/BarisKarapelit/smartmessage-integration) — SmartMessage/Moreum messaging service integration with async architecture
+
+---
+
+### 📫 Let's Connect
+
+I'm always open to collaboration, learning from others, or just chatting about tech! Feel free to reach out:
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/bar%C4%B1%C5%9Fkarapelit/)
+- 💬 [GitHub Discussions](https://github.com/BarisKarapelit?tab=discussions)
+- 📮 You can also open an issue for Q&A on my [repo issues page][issues page]
+
+---
+
+### 🎯 Learning Goals
+
+These are the technologies and topics I'm currently exploring or aiming to master:
+
+- 🧠 Advanced Go (Golang) concurrency and microservices
+- ☸️ Kubernetes operator design & GitOps
+- 🛡️ OpenID Connect & enterprise-level authentication
+- 📊 Observability with OpenTelemetry and distributed tracing
 
 ---
 
