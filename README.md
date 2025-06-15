@@ -61,6 +61,9 @@
   </tr>
   <tr>
     <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="48" height="48" alt="Jenkins" /><br>Jenkins
+    </td>
+    <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" /><br>MySQL
     </td>
     <td align="center" width="96">
@@ -74,6 +77,9 @@
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" /><br>Linux
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/opensearch-project/OpenSearch/main/assets/opensearch-logo/PNG/opensearch-logo-icon.png" width="48" height="48" alt="OpenSearch" /><br>OpenSearch
     </td>
     <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="48" height="48" alt="Azure" /><br>Azure
