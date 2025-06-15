@@ -1,12 +1,9 @@
-<h1 align="left" id="macropower-title">Hi there, I'm Barış Karapelit 👋</h1>
-<h3 align="left">Full Stack Developer | Cloud & DevOps Enthusiast | Versatilist</h3>
+<h1 align="center">🚀 Hi there, I'm <span style="color:#4FC3F7">Barış Karapelit</span> 👋</h1>
+<h3 align="center">💻 Full Stack Developer | ☁️ Cloud & DevOps Enthusiast | 🧠 Lifelong Learner</h3>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/BarisKarapelit">
     <img src="https://komarev.com/ghpvc/?username=BarisKarapelit" alt="page views" />
-  </a>
-  <a href="https://github.com/BarisKarapelit/The-Complete-2022-Web-Development-Bootcamp">
-    <img alt="Languages count" src="https://img.shields.io/github/languages/count/BarisKarapelit/The-Complete-2022-Web-Development-Bootcamp">
   </a>
   <a href="https://stackoverflow.com/users/16427064/bar%c4%b1%c5%9f-karapelit">
     <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/16427064">
@@ -17,23 +14,26 @@
   <a href="https://github.com/BarisKarapelit?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/BarisKarapelit?style=social">
   </a>
-  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
-    <img alt="Awesome Badge" src="https://awesome.re/mentioned-badge.svg">
+  <a href="https://www.linkedin.com/in/bar%C4%B1%C5%9Fkarapelit/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
   </a>
 </p>
 
 ---
 
-- 🏢 &nbsp;Currently working at **[ViennaLife][company]**
-- 🌱 &nbsp;Currently learning **C#**, **Go**, and **JavaScript**
-- 💬 &nbsp;Feel free to open an issue on my **[issues page][issues page]**
-- 🔗 &nbsp;Let's connect on **[LinkedIn][linkedin]**
+### 👨‍💼 About Me
+
+- 🏢 I’m currently working at **[ViennaLife][company]**
+- 🔭 I’m exploring scalable microservices with **Spring Boot**, **Docker**, and **Kubernetes**
+- 🌱 Currently diving deeper into **C#**, **Go**, and **JavaScript**
+- 💬 Ask me anything on my **[issues page][issues page]**
+- 🎯 I'm passionate about building clean architectures and solving real-world problems
 
 ---
 
-<h2 align="left" id="macropower-tech">Tech Stack & Tools</h2>
+### 🛠️ Tech Stack & Tools
 
-> Tech I actively use and enjoy working with:
+> Languages, platforms, and tools I love to work with:
 
 <table>
   <tr>
@@ -83,7 +83,7 @@
 
 ---
 
-<h2 align="left">Coding Activity</h2>
+### 📈 Coding Activity
 
 > Total coding time logged since 26-06-2022. Updated hourly.
 
