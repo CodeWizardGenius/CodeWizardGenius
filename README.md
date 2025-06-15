@@ -33,18 +33,15 @@
 
 <h2 align="left" id="macropower-tech">Tech Stack & Tools</h2>
 
-> My favorite technologies to build scalable applications and work with daily:
+> Tech I actively use and enjoy working with:
 
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="./img/csharp-original.svg" width="48" height="48" alt="C#" /><br>C# (.NET Core)
+      <img src="./img/java-original.svg" width="48" height="48" alt="Java" /><br>Java
     </td>
     <td align="center" width="96">
-      <img src="./img/python-original.svg" width="48" height="48" alt="Python" /><br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" /><br>Go
+      <img src="./img/springio-icon.svg" width="48" height="48" alt="Spring Boot" /><br>Spring Boot
     </td>
     <td align="center" width="96">
       <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" /><br>JavaScript
@@ -61,28 +58,34 @@
     <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" /><br>Kubernetes
     </td>
-  </tr>
-  <tr>
     <td align="center" width="96">
       <img src="./img/mysql-original.svg" width="48" height="48" alt="MySQL" /><br>MySQL
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/PowerShell/PowerShell/master/assets/ps_black_128.svg" width="48" height="48" alt="PowerShell" /><br>PowerShell
+      <img src="./img/mongodb-original.svg" width="48" height="48" alt="MongoDB" /><br>MongoDB
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="./img/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" /><br>PostgreSQL
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/grafana/grafana/master/public/img/grafana_icon.svg" width="48" height="48" alt="Grafana" /><br>Grafana
+      <img src="./img/git-original.svg" width="48" height="48" alt="Git" /><br>Git
     </td>
     <td align="center" width="96">
-      <img src="https://github.com/cncf/artwork/blob/master/projects/prometheus/icon/color/prometheus-icon-color.svg" width="48" height="48" alt="Prometheus" /><br>Prometheus
+      <img src="./img/intellij-original.svg" width="48" height="48" alt="IntelliJ" /><br>IntelliJ
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/thanos/icon/color/thanos-icon-color.svg" width="48" height="48" alt="Thanos" /><br>Thanos
+      <img src="./img/linux-original.svg" width="48" height="48" alt="Linux" /><br>Linux
     </td>
     <td align="center" width="96">
-      <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" /><br>Bootstrap
+      <img src="./img/azure-original.svg" width="48" height="48" alt="Azure" /><br>Azure
     </td>
     <td align="center" width="96">
-      <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" /><br>Sass
+      <img src="./img/heroku-original.svg" width="48" height="48" alt="Heroku" /><br>Heroku
+    </td>
+    <td align="center" width="96">
+      <img src="./img/rabbitmq-original.svg" width="48" height="48" alt="RabbitMQ" /><br>RabbitMQ
     </td>
   </tr>
 </table>
