@@ -1,3 +1,22 @@
+<style>
+  :root[data-theme='dark'] {
+    background-color: #0d1117;
+    color: #c9d1d9;
+  }
+  :root[data-theme='light'] {
+    background-color: #ffffff;
+    color: #24292f;
+  }
+</style>
+
+<div align="right">
+  <label for="theme-switch">🌞 Light Mode &nbsp; 🌙 Dark Mode</label>
+  <select id="theme-switch" onchange="document.body.setAttribute('data-theme', this.value)" style="padding:6px 12px; font-size:14px; border-radius:8px; border:1px solid #ccc; margin-left: 10px;">
+    <option value="light">Light</option>
+    <option value="dark" selected>Dark</option>
+  </select>
+</div>
+
 <h1 align="center">🚀 Hi there, I'm <span style="color:#4FC3F7">Barış Karapelit</span> 👋</h1>
 <h3 align="center">💻 Full Stack Developer | ☁️ Cloud & DevOps Enthusiast | 🧠 Lifelong Learner</h3>
 
@@ -35,57 +54,10 @@
 
 > Languages, platforms, and tools I love to work with:
 
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" /><br>Java
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="48" height="48" alt="Spring Boot" /><br>Spring Boot
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" /><br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" /><br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" alt="React" /><br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" /><br>Docker
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="48" height="48" alt="Kubernetes" /><br>Kubernetes
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="48" height="48" alt="Jenkins" /><br>Jenkins
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" /><br>MySQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" /><br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" /><br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" /><br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" /><br>Linux
-    </td>
-    <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/opensearch-project/OpenSearch/main/assets/opensearch-logo/PNG/opensearch-logo-icon.png" width="48" height="48" alt="OpenSearch" /><br>OpenSearch
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="48" height="48" alt="Azure" /><br>Azure
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,docker,kubernetes,jenkins,mysql,mongodb,postgresql,git,linux,azure" alt="Tech Stack" />
+  <img src="https://raw.githubusercontent.com/opensearch-project/OpenSearch/main/assets/opensearch-logo/PNG/opensearch-logo-icon.png" width="48" height="48" alt="OpenSearch" style="margin-left:12px; vertical-align:middle;" />
+</div>
 
 ---
 
