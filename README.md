@@ -6,21 +6,11 @@
 <h3 align="center">💻 Full Stack Developer | ☁️ Cloud & DevOps Enthusiast | 🧠 Lifelong Learner</h3>
 
 <p align="center">
-  <a href="https://github.com/BarisKarapelit">
-    <img src="https://komarev.com/ghpvc/?username=BarisKarapelit&color=blue" alt="page views" />
-  </a>
-  <a href="https://stackoverflow.com/users/16427064/bar%c4%b1%c5%9f-karapelit">
-    <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/16427064">
-  </a>
-  <a href="https://www.reddit.com/user/Difficult-Ad-6551">
-    <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/link/Difficult-Ad-6551">
-  </a>
-  <a href="https://github.com/BarisKarapelit?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/BarisKarapelit?style=social">
-  </a>
-  <a href="https://www.linkedin.com/in/bar%C4%B1%C5%9Fkarapelit/">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" />
-  </a>
+  <a href="https://github.com/CodeWizardGenius"><img src="https://komarev.com/ghpvc/?username=CodeWizardGenius&color=blue" alt="page views"></a>
+  <a href="https://stackoverflow.com/users/16427064/bar%c4%b1%c5%9f-karapelit"><img src="https://img.shields.io/stackexchange/stackoverflow/r/16427064" alt="Stack Overflow"></a>
+  <a href="https://www.reddit.com/user/Difficult-Ad-6551"><img src="https://img.shields.io/reddit/user-karma/link/Difficult-Ad-6551" alt="Reddit"></a>
+  <a href="https://github.com/CodeWizardGenius?tab=followers"><img src="https://img.shields.io/github/followers/CodeWizardGenius?style=social" alt="GitHub followers"></a>
+  <a href="https://www.linkedin.com/in/baris-karapelit/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"></a>
 </p>
 
 ---
@@ -56,9 +46,8 @@
 
 Here are some of the projects I've been working on recently:
 
-- 🔐 [User Management System](https://github.com/BarisKarapelit/user-management) — Role-based user and permission structure with Spring Security
-- 🧾 [Aegon Dividend Service](https://github.com/BarisKarapelit/aegon-dividend-service) — Microservice for financial dividend processing
-- 💬 [Messaging API Integration](https://github.com/BarisKarapelit/smartmessage-integration) — SmartMessage/Moreum messaging service integration with async architecture
+- 🔐 [User Management System](https://github.com/CodeWizardGenius/user-management) — Role-based user and permission structure with Spring Security
+- 💬 [Messaging API Integration](https://github.com/CodeWizardGenius/smartmessage-integration) — SmartMessage/Moreum messaging service integration with async architecture
 
 ---
 
@@ -66,8 +55,8 @@ Here are some of the projects I've been working on recently:
 
 I'm always open to collaboration, learning from others, or just chatting about tech! Feel free to reach out:
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/bar%C4%B1%C5%9Fkarapelit/)
-- 💬 [GitHub Discussions](https://github.com/BarisKarapelit?tab=discussions)
+- 💼 [LinkedIn](https://www.linkedin.com/in/baris-karapelit/)
+- 💬 [GitHub Discussions](https://github.com/CodeWizardGenius?tab=discussions)
 - 📮 You can also open an issue for Q&A on my [repo issues page][issues page]
 
 ---
