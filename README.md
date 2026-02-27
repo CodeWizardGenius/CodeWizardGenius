@@ -1,4 +1,3 @@
-<!-- Theme switching is not supported in GitHub markdown, but kept for aesthetic context -->
 <p align="right">
   🌞 <strong>Light Mode</strong> | 🌙 <strong>Dark Mode</strong>
 </p>
@@ -8,7 +7,7 @@
 
 <p align="center">
   <a href="https://github.com/BarisKarapelit">
-    <img src="https://komarev.com/ghpvc/?username=BarisKarapelit" alt="page views" />
+    <img src="https://komarev.com/ghpvc/?username=BarisKarapelit&color=blue" alt="page views" />
   </a>
   <a href="https://stackoverflow.com/users/16427064/bar%c4%b1%c5%9f-karapelit">
     <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/16427064">
@@ -42,7 +41,7 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,docker,kubernetes,jenkins,mysql,mongodb,postgresql,git,linux,azure" alt="Tech Stack" />
-  <img src="./img/opensearch.svg" width="48" height="48" alt="OpenSearch" style="margin: 6px; border-radius: 8px; padding: 6px; background: #fff;" />
+  <img src="https://opensearch.org/assets/brand/SVG/Mark/opensearch-mark-default.svg" width="48" height="48" alt="OpenSearch" style="margin: 6px; border-radius: 8px; padding: 6px; background: #fff;" />
 </div>
 
 ---
@@ -50,11 +49,6 @@
 ### 📈 Coding Activity
 
 > Daily activity trend based on my development workflow. Updated automatically.
-
-```
-             ┼─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┤ 
-            -7d           -6d           -5d           -4d           -3d           -2d           -1d           now
-```
 
 ---
 
@@ -115,21 +109,14 @@ gantt
     title       Career & Learning Path
 
     section Education
-    Computer Engineering BSc      :done, 2016-09-01, 2020-06-15
-    MSc in International Business :done, 2021-09-01, 2024-06-15
+    Computer Engineering BSc      :done, edu1, 2016-09-01, 2020-06-15
+    MSc in International Business :done, edu2, 2021-09-01, 2024-06-15
 
     section Career
-    Backend Developer Intern      :done, 2019-06-01, 2019-09-01
-    Java Developer @Aegon        :done, 2020-09-01, 2023-01-01
-    Software Engineer @ViennaLife:active, 2023-01-02, 2025-12-31
+    Backend Developer Intern      :done, car1, 2019-06-01, 2019-09-01
+    Java Developer @Aegon         :done, car2, 2020-09-01, 2023-01-01
+    Software Engineer @ViennaLife :active, car3, 2023-01-02, 2025-12-31
 
     section Learning
-    Go & OpenTelemetry            :active, 2024-10-01, 2025-06-01
-    Kubernetes Operators          :active, 2024-11-01, 2025-07-01
-```
-
----
-
-[company]: https://viennalife.com.tr
-[issues page]: https://github.com/BarisKarapelit/The-Complete-2022-Web-Development-Bootcamp/issues
-[linkedin]: https://www.linkedin.com/in/bar%C4%B1%C5%9Fkarapelit/
+    Go & OpenTelemetry            :active, learn1, 2024-10-01, 2025-06-01
+    Kubernetes Operators          :active, learn2, 2024-11-01, 2025-07-01
