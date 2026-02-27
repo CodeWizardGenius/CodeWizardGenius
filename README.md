@@ -1,7 +1,3 @@
-<p align="right">
-  🌞 <strong>Light Mode</strong> | 🌙 <strong>Dark Mode</strong>
-</p>
-
 <h1 align="center">🚀 Hi there, I'm <span style="color:#4FC3F7">Barış Karapelit</span> 👋</h1>
 <h3 align="center">💻 Full Stack Developer | ☁️ Cloud & DevOps Enthusiast | 🧠 Lifelong Learner</h3>
 
@@ -31,7 +27,7 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,docker,kubernetes,jenkins,mysql,mongodb,postgresql,git,linux,azure" alt="Tech Stack" />
-  <img src="https://opensearch.org/assets/brand/SVG/Mark/opensearch-mark-default.svg" width="48" height="48" alt="OpenSearch" style="margin: 6px; border-radius: 8px; padding: 6px; background: #fff;" />
+  <img src="https://cdn.simpleicons.org/opensearch/005EB8" width="44" height="44" alt="" />
 </div>
 
 ---
