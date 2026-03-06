@@ -13,7 +13,6 @@
 
 ### 👨‍💼 About Me
 
-- 🏢 I’m currently working at **[ViennaLife][company]**
 - 🔭 I’m exploring scalable microservices with **Spring Boot**, **Docker**, and **Kubernetes**
 - 🌱 Currently diving deeper into **C#**, **Go**, and **JavaScript**
 - 💬 Ask me anything on my **[issues page][issues page]**
