@@ -13,52 +13,44 @@
 
 ### 👨‍💼 About Me
 
-- 🔭 I’m exploring scalable microservices with **Spring Boot**, **Docker**, and **Kubernetes**
-- 🌱 Currently diving deeper into **C#**, **Go**, and **JavaScript**
+- 🔭 Exploring scalable microservices with **Spring Boot**, **Docker**, and **Kubernetes**
+- 🌱 Diving deeper into **C#** and **JavaScript**, and learning **Go**
 - 💬 Ask me anything on my **[issues page][issues page]**
-- 🎯 I'm passionate about building clean architectures and solving real-world problems
+- 🎯 Passionate about clean architecture and solving real-world problems
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-> Languages, platforms, and tools I love to work with:
-
+<!-- [GÜNCELLENECEK] Remove any you don't actively use: ts, jenkins, mongodb, postgresql, azure -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,js,ts,react,docker,kubernetes,jenkins,mysql,mongodb,postgresql,git,linux,azure" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,js,ts,react,docker,kubernetes,jenkins,mysql,mongodb,postgresql,git,linux,azure" alt="Tech Stack" />
   <img src="https://cdn.simpleicons.org/opensearch/005EB8" width="44" height="44" alt="" />
 </div>
 
 ---
 
-### 📈 Coding Activity
-
-> Daily activity trend based on my development workflow. Updated automatically.
-
----
-
 ### 📌 Featured Projects
 
-Here are some of the projects I've been working on recently:
-
-- 🔐 [User Management System](https://github.com/CodeWizardGenius/user-management) — Role-based user and permission structure with Spring Security
-- 💬 [Messaging API Integration](https://github.com/CodeWizardGenius/smartmessage-integration) — SmartMessage/Moreum messaging service integration with async architecture
+- 🔐 [User Management System](https://github.com/CodeWizardGenius/user-management) — Role-based user and permission management with Spring Security
+- 💬 [Messaging API Integration](https://github.com/CodeWizardGenius/smartmessage-integration) — SmartMessage/Moreum messaging integration with an async architecture
+<!-- [GÜNCELLENECEK] Add current project if any: - 🚀 [Project Name](link) — one-line description -->
 
 ---
 
 ### 📫 Let's Connect
 
-I'm always open to collaboration, learning from others, or just chatting about tech! Feel free to reach out:
+Always happy to collaborate, learn from others, or just chat about tech:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/baris-karapelit/)
 - 💬 [GitHub Discussions](https://github.com/CodeWizardGenius?tab=discussions)
-- 📮 You can also open an issue for Q&A on my [repo issues page][issues page]
+- 📮 Got a question? Open an issue on my [repo issues page][issues page]
 
 ---
 
 ### 🎯 Learning Goals
 
-These are the technologies and topics I'm currently exploring or aiming to master:
+> [GÜNCELLENECEK] Confirm current goals and target dates.
 
 - 🧠 Advanced Go (Golang) concurrency and microservices
 - ☸️ Kubernetes operator design & GitOps
@@ -78,7 +70,7 @@ These are the technologies and topics I'm currently exploring or aiming to maste
 
 ### 📜 Certifications
 
-- ✅ AWS Certified Cloud Practitioner (in progress)
+- ☁️ AWS Certified Cloud Practitioner — [GÜNCELLENECEK: completed / in progress]
 - ✅ Java Spring Professional Track (Patika+)
 - ✅ Docker & Kubernetes Hands-On (Udemy)
 - ✅ OpenSearch Essentials (self-paced)
@@ -99,8 +91,10 @@ gantt
     section Career
     Backend Developer Intern      :done, car1, 2019-06-01, 2019-09-01
     Java Developer @Aegon         :done, car2, 2020-09-01, 2023-01-01
-    Software Engineer @ViennaLife :active, car3, 2023-01-02, 2025-12-31
+    Software Engineer @ViennaLife :active, car3, 2023-01-02, 2026-12-31
 
-    section Learning
-    Go & OpenTelemetry            :active, learn1, 2024-10-01, 2025-06-01
-    Kubernetes Operators          :active, learn2, 2024-11-01, 2025-07-01
+    %% [GÜNCELLENECEK] section Learning — add current goals, e.g.:
+    %% Topic                      :active, learn1, YYYY-MM-DD, YYYY-MM-DD
+```
+
+[issues page]: https://github.com/CodeWizardGenius/CodeWizardGenius/issues
